@@ -22,7 +22,7 @@
 <a href="https://twitter.com/furkankaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkankaraketir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkankaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkankaraketir" height="30" width="40" /></a>
 <a href="https://instagram.com/furkan_karaketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_karaketir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/furkankaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furkankaraketir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FurkanKaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furkankaraketir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkankaraketir2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkankaraketir2" height="30" width="40" /></a>
 </p>
 
