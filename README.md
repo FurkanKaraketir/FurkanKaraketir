@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/furkankaraketir" target="blank"><img src="https://img.shields.io/twitter/follow/furkankaraketir?logo=twitter&style=for-the-badge" alt="furkankaraketir" /></a> </p>
 
-- 🔭 I’m currently working on [KTS - Koçluk Takip Sistemi](https://github.com/FurkanKaraketir/KTS-Kocluk-Takip-Sistemi)
+- 🔭 I’m currently working on [PShare](https://github.com/FurkanKaraketir/PShare)
 
 - 🌱 I’m currently learning **MATLAB, C++**
 
