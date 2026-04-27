@@ -1,28 +1,40 @@
-<h1 align="center">Furkan Karaketir</h1>
+# Furkan Karaketir
 
-- 🔭 I’m currently working on [fluid-simulation](https://github.com/FurkanKaraketir/fluid-simulation)
+Control & Automation Engineering student at **Yıldız Technical University**, building things across game dev, mobile apps, simulations, and embedded systems.
 
-- 🌱 I’m currently learning **MATLAB, C++**
+---
 
-- 📫 How to reach me **furkankaraketir2005@gmail.com**
+## 🚀 What I'm Working On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x/furkankaraketir" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="furkankaraketir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/furkankaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkankaraketir" height="30" width="40" /></a>
-<a href="https://instagram.com/furkan_karaketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_karaketir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@FurkanKaraketir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furkankaraketir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/furkankaraketir2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkankaraketir2" height="30" width="40" /></a>
-</p>
+- **[fluid-simulation](https://github.com/FurkanKaraketir/fluid-simulation)** — Real-time fluid dynamics simulation in C++
+- **[Log-Reader](https://github.com/FurkanKaraketir/Log-Reader)** — Python tool for parsing Mission Planner `.log` files (UAV/drone telemetry)
+- **[KTS-Kocluk-Takip-Sistemi](https://github.com/FurkanKaraketir/KTS-Kocluk-Takip-Sistemi)** — Coaching tracking system built with Kotlin
+- **[PShare](https://github.com/FurkanKaraketir/PShare)** — Kotlin-based sharing platform
+- **[Ezgi-Mars-Chords](https://github.com/FurkanKaraketir/Ezgi-Mars-Chords)** — Flutter/Dart app for guitar chords
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+---
 
+## 🛠 Tech Stack
+
+**Languages**
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkankaraketir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkankaraketir)
+[![YouTube](https://img.shields.io/badge/YouTube-FurkanKaraketir-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@FurkanKaraketir)
+[![Instagram](https://img.shields.io/badge/Instagram-furkan__karaketir-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/furkan_karaketir)
+
+---
